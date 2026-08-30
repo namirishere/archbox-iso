@@ -29,5 +29,6 @@ sleep 1 ; xxkb &
 
 /usr/bin/pamac-tray &
 
-# Set wallpaper
-(sleep 5 && nitrogen --restore) &
+# Set wallpaper natively using feh configurations
+(sleep 5 && feh --theme archbox_bg) &
+
