@@ -4,3 +4,7 @@
   xsi:schemaLocation="http://openbox.org/">
     <menu id="root-menu" label="obmenu-generator" execute="/usr/bin/perl /usr/bin/obmenu-generator -i" />
 </openbox_menu>
+<item label="Install ArchBox Linux">
+    <action name="Execute"><execute>sudo calamares</execute></action>
+</item>
+
