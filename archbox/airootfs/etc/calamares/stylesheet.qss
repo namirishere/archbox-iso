@@ -1,0 +1,8 @@
+-/* Sidebar stylesheet custom styling for Calamares */
+QWidget {
+    font-family: "DejaVu Sans", "sans-serif";
+}
+QListView {
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+}
