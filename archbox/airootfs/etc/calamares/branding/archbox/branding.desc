@@ -1,0 +1,30 @@
+# Branding descriptor file for ArchBox Linux
+---
+componentName:  archbox
+
+strings:
+    productName:         "ArchBox Linux"
+    shortProductName:    "ArchBox"
+    version:             "26.11"
+    shortVersion:        "2026"
+    versionedName:       "ArchBox Linux 26.11"
+    productUrl:          "https://archbox.freehosting.dev"
+    supportUrl:          "https://github.com/archboxproject/archbox/wiki"
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "wallpaper.jpg"
+
+slideshow:               []
+
+style:
+    sidebarBackground:    "#1A1A1A"
+    sidebarText:          "#FFFFFF"
+    sidebarTextSelect:    "#4CAF50" 
+    sidebarTextHighlight: "#81C784"
+
+window:
+    width:  800
+    height: 600
+    startPosition: "center"
